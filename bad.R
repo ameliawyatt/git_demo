@@ -4,7 +4,7 @@ fun = function(one)
   four <- matrix(1:10,nrow = 2)
   four[ 1, ]
   txt <- 'hi'
-  three <- two+ 1
+  three <- one.plus.one + 1
   if(txt == 'hi') 4
   5}
 {
